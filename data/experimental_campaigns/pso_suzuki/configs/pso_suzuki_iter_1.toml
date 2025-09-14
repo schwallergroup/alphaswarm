@@ -1,0 +1,28 @@
+chemical_space_file = "data/experimental_campaigns/pso_suzuki/chemical_spaces/pso_suzuki_chemical_space.csv"
+exclude_columns = ["ligand", "solvent", "precursor", "base", "co_solvent"]
+
+iteration_number = 1  # 1 for the initialisation
+
+seed = 9
+n_particles = 96
+init_method = "sobol"
+algo = "alpha-pso"
+
+objective_columns = ["AP yield", "AP selectivity"]
+
+pso_suggestions_path = "data/experimental_campaigns/pso_suzuki/pso_plate_suggestions"
+pso_suggestions_format = "PSO_plate_{}_suggestions.csv"
+experimental_data_path = "data/experimental_campaigns/pso_suzuki/pso_training_data"
+experimental_data_format = "PSO_plate_{}_train.csv"
+
+[pso_params]
+c_1 = 1.0
+c_2 = 1.0
+c_a = 1.0
+w = 1.0
+n_particles_to_move = [0]
+
+[model_config]
+kernel = "MaternKernel"
+kernel_params = "default"
+training_iter = 1000

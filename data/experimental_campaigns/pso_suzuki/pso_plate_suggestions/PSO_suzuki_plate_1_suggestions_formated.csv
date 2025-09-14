@@ -1,0 +1,97 @@
+rxn_id,ligand,solvent,precursor,base,co_solvent
+49372,NPCy2-Andolephos,2-MeTHF,[Pd2(dba)3],KOAc,none
+25898,AdBrettPhos,PhOMe,[Pd(allyl)Cl]2,DBU,none
+52185,PtBuPh2,CPME,[Pd2(dba)3],K3PO4,H2O
+15271,Mor-Dalphos,iPrOH,[Pd(allyl)Cl]2,KOtBu,H2O
+54526,PAd2Cy,EtOAc,[Pd2(dba)3],KOH,none
+23183,BippyPhos,iPrOH,[Pd(allyl)Cl]2,K2CO3,H2O
+13960,X-PHOS,iPr2O,[Pd2(dba)3],Cs2CO3,none
+48905,Amidolephos,PhOMe,[Pd(OAc)2],K3PO4,H2O
+18671,SPhos,PhOMe,[Pd(OAc)2],KOtBu,H2O
+1742,P(tBu)3,CPME,[Pd(OAc)2],K2CO3,none
+19387,PhDavePhos,PhOMe,[Pd(OAc)2],KOH,H2O
+52064,PtBuPh2,tAmOH,[Pd2(dba)3],K3PO4,none
+31673,RuPhos-Hybrid,PhOMe,[Pd2(dba)3],KOAc,H2O
+23168,BippyPhos,iPrOH,[Pd(OAc)2],KOMe,none
+10560,CY-VBRIDP,EtOAc,[Pd(OAc)2],Cs2CO3,none
+2507,JohnPhos,CPME,[Pd2(dba)3],KOH,H2O
+34096,(1-Ad)3P,iPr2O,[Pd(OAc)2],DIPEA,none
+22235,RockPhos,PhMe,[Pd(allyl)Cl]2,KF,H2O
+46439,PCy2Ph,CPME,[Pd2(dba)3],DBU,H2O
+5606,cataCXium POMetB,MeCN,[Pd(allyl)Cl]2,KOH,none
+55025,iPr-PhenCarPhos,CPME,[Pd(OAc)2],K3PO4,H2O
+37286,MePhos,MeCN,[Pd(allyl)Cl]2,KOH,none
+6101,cataCXium POMeCy,CPME,[Pd2(dba)3],Cs2CO3,H2O
+52528,PtBuPh2,PhOMe,[Pd(allyl)Cl]2,KOMe,none
+26414,CyPPh2,EtOAc,[Pd(OAc)2],KF,none
+34917,CPhos-Hybrid,CPME,[Pd2(dba)3],DIPEA,H2O
+6438,cataCXium POMeCy,PhOMe,[Pd(OAc)2],DBU,none
+38723,TRIPPYPHOS,MeCN,[Pd(allyl)Cl]2,K2CO3,H2O
+51092,pta,PhOMe,[Pd(allyl)Cl]2,KOAc,none
+13464,cataCXium PICy,EtOAc,[Pd(allyl)Cl]2,K3PO4,none
+55261,iPr-PhenCarPhos,MeCN,[Pd(OAc)2],Cs2CO3,H2O
+13979,X-PHOS,iPr2O,[Pd2(dba)3],DBU,H2O
+26910,DavePhos,iPr2O,[Pd(allyl)Cl]2,KOtBu,none
+58308,QPhos,PhOMe,[Pd2(dba)3],KOMe,none
+24781,RuPhos,CPME,[Pd(OAc)2],Cs2CO3,H2O
+26502,CyPPh2,MeCN,[Pd2(dba)3],K2CO3,none
+50193,Metamorphos,EtOAc,[Pd(allyl)Cl]2,KOAc,H2O
+34006,(1-Ad)3P,iPrOH,[Pd2(dba)3],KOH,none
+18969,PhDavePhos,iPr2O,[Pd(OAc)2],KOMe,H2O
+44634,Gphos,PhOMe,[Pd2(dba)3],KF,none
+36518,VPhos,EtOAc,[Pd(allyl)Cl]2,DBU,none
+32735,PhCPhos,CPME,[Pd(allyl)Cl]2,KF,H2O
+35140,CPhos-Hybrid,MeCN,[Pd2(dba)3],Cs2CO3,none
+7327,cataCXium PtB,iPrOH,[Pd(OAc)2],KOH,H2O
+21544,(pDMA-Ph)P(tBu)2 = AmPhos,PhOMe,[Pd(OAc)2],K3PO4,none
+17479,BrettPhos,tAmOH,[Pd(OAc)2],DBU,H2O
+516,PPh3,EtOAc,[Pd(allyl)Cl]2,DIPEA,none
+54302,PAd2Cy,CPME,[Pd(OAc)2],K2CO3,none
+52891,(rac)-QUINAP,CPME,[Pd(allyl)Cl]2,KOtBu,H2O
+17949,BrettPhos,PhOMe,[Pd(OAc)2],KOMe,H2O
+48560,Amidolephos,CPME,[Pd(allyl)Cl]2,Cs2CO3,none
+585,PPh3,MeCN,[Pd2(dba)3],K3PO4,H2O
+34168,(1-Ad)3P,CPME,[Pd(allyl)Cl]2,KOMe,none
+33677,(tBu)PhCPhos,MeCN,[Pd(OAc)2],DIPEA,H2O
+272,PPh3,iPr2O,[Pd(allyl)Cl]2,KOAc,none
+40303,tBuSPhos,PhOMe,[Pd2(dba)3],K2CO3,H2O
+581,PPh3,MeCN,[Pd2(dba)3],Cs2CO3,H2O
+18328,SPhos,CPME,[Pd(allyl)Cl]2,KOMe,none
+29481,EPhos,PhOMe,[Pd(allyl)Cl]2,Cs2CO3,H2O
+918,P(Cy)3,tAmOH,[Pd(OAc)2],DBU,none
+52557,PtBuPh2,PhOMe,[Pd2(dba)3],DIPEA,H2O
+22894,AdBippyPhos,MeCN,[Pd(allyl)Cl]2,KF,none
+4139,cataCXium ABn,EtOAc,[Pd2(dba)3],DBU,H2O
+6785,cataCXium PIntB,CPME,[Pd(OAc)2],K3PO4,H2O
+199,PPh3,tAmOH,[Pd(OAc)2],DBU,H2O
+37890,TrixiePhos,MEK,[Pd(allyl)Cl]2,KOtBu,none
+45377,CM-Phos,MeOH,[Pd(OAc)2],DIPEA,H2O
+35814,tBuXPhos,EtOAc,[Pd2(dba)3],KF,none
+46861,PPh2-Andolephos,EtOH,[Pd(OAc)2],Cs2CO3,H2O
+10407,CY-VBRIDP,CPME,[Pd(allyl)Cl]2,KOH,H2O
+31170,RuPhos-Hybrid,tAmOH,[Pd(allyl)Cl]2,KOtBu,none
+17712,BrettPhos,MEK,[Pd(OAc)2],KOAc,none
+31303,RuPhos-Hybrid,CPME,[Pd2(dba)3],K2CO3,H2O
+53408,CyRockPhos,iPrOH,[Pd(OAc)2],KOMe,none
+21434,(pDMA-Ph)P(tBu)2 = AmPhos,MeCN,[Pd(OAc)2],KF,none
+58947,CBRIDP,PhMe,[Pd(allyl)Cl]2,KOH,H2O
+30700,PhenCar-Phos,MEK,[Pd2(dba)3],Cs2CO3,none
+40213,tBuSPhos,PhMe,[Pd(OAc)2],KOAc,H2O
+36464,VPhos,MEK,[Pd2(dba)3],K3PO4,none
+37475,TrixiePhos,MeOH,[Pd(allyl)Cl]2,KF,H2O
+53222,(rac)-QUINAP,PhOMe,[Pd(OAc)2],K2CO3,none
+31371,RuPhos-Hybrid,2-MeTHF,[Pd2(dba)3],KOtBu,H2O
+31046,RuPhos-Hybrid,EtOH,[Pd(allyl)Cl]2,KOH,none
+7719,cataCXium PtB,EtOAc,[Pd(allyl)Cl]2,DBU,H2O
+50520,pta,iPrOH,[Pd(OAc)2],Cs2CO3,none
+41559,cataCXium PiPr,EtOAc,[Pd(allyl)Cl]2,DBU,H2O
+52069,PtBuPh2,tAmOH,[Pd2(dba)3],KOMe,H2O
+16316,Me4tBuXPhos,MEK,[Pd2(dba)3],DIPEA,none
+52365,PtBuPh2,EtOAc,[Pd2(dba)3],K3PO4,H2O
+19527,tBuBrettPhos,EtOH,[Pd(allyl)Cl]2,KOH,H2O
+24950,RuPhos,MEK,[Pd2(dba)3],KOtBu,none
+54628,PAd2Cy,PhMe,[Pd(allyl)Cl]2,KOMe,none
+54527,PAd2Cy,EtOAc,[Pd2(dba)3],KOH,H2O
+26544,CyPPh2,PhMe,[Pd(allyl)Cl]2,K3PO4,none
+37155,MePhos,MEK,[Pd(OAc)2],KF,H2O
+23252,BippyPhos,tAmOH,[Pd(allyl)Cl]2,KOAc,none
